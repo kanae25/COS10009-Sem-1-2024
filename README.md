@@ -1,3 +1,3 @@
 # COS10009-Sem-1-2024
-All Pass Level Ruby tasks in COS10009 Semester 1 2024.</br>
-A star would be nice. :)
+All Pass Level Ruby tasks in COS10009 Semester 1 2024.
+
